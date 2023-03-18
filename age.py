@@ -4,3 +4,4 @@ birth_date = input("enter your birth year ")
 c = int(today_d)-int(birth_date)
 print("your age " + str(c))
 # finding  age
+#finding age by tsking input from user 
