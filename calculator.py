@@ -1,5 +1,6 @@
 
 #using arthmetic operation
+print("here's a calculator code in py")
 a=int(input("enter first number "))
 b=int(input("enter second number "))
 choice=input("enter what you want to perform +,-,*,/,**,%  ")
