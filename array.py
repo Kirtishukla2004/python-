@@ -13,6 +13,7 @@ i=0
 for i in range(a):
     x=int(input( ))
     list.append(x)
+    #input list 
 print(list)"""
 n = 3
 
