@@ -13,6 +13,7 @@ i=0
 for i in range(a):
     x=int(input( ))
     list.append(x)
+
     #input list 
 print(list)"""
 n = 3
@@ -20,3 +21,4 @@ n = 3
 d = dict(input("Enter key and value: ").split() for _ in range(n))
 
 print(d)
+print(d+4)
